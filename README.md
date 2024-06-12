@@ -50,7 +50,7 @@ Este proyecto consiste en un juego [breve descripción del juego].
 
 ### Código Fuente
 
-- [Enlace al repositorio]
+- [[Enlace al repositorio](https://gitlab.com/rodo.leon.marc/projecte-4.git)]
 
 ### TikTok
 
