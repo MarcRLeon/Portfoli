@@ -21,7 +21,7 @@ Este proyecto consiste en un juego [breve descripción del juego].
 
 ### Código Fuente
 
-- [Repositorio del código](enlace_al_repositorio)
+- [Repositorio del código](https://gitlab.com/rodo.leon.marc/projecte-4.git)
 
 ### TikTok
 
@@ -50,7 +50,7 @@ Este proyecto consiste en un juego [breve descripción del juego].
 
 ### Código Fuente
 
-- [[Enlace al repositorio](https://gitlab.com/rodo.leon.marc/projecte-4.git)]
+- [[Enlace al repositorio]]
 
 ### TikTok
 
