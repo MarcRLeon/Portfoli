@@ -8,7 +8,7 @@ Este proyecto consiste en un juego [breve descripción del juego].
 ### Documentación
 
 - [Game Design Document](https://docs.google.com/document/d/1j-MgLMBubWbzjcbLy2urX9RNEipy6LXtMXCrAfXl8zE/edit?usp=sharing)
-- [Manual de Usuario (en inglés)](enlace_al_manual)
+- [Manual de Usuario (en inglés)](https://docs.google.com/document/d/1b6_MPr_QwLhVaVVdwLlVg5g1xOvur8Le3NX0oNIu1Pw/edit?usp=sharing)
 
 ### Demostración
 
