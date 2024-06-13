@@ -1,9 +1,6 @@
 # Portafolio de Proyectos
 
-## Proyecto de Diseño de Juego "Nombre del Juego"
-
-### Descripción
-Este proyecto consiste en un juego [breve descripción del juego].
+## Projecte 4
 
 ### Documentación
 
