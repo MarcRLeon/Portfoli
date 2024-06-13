@@ -25,7 +25,7 @@ Este proyecto consiste en un juego [breve descripción del juego].
 
 ### TikTok
 
-- [TikTok de FOL relacionado](enlace_al_tiktok)
+- [TikTok de FOL relacionado](https://www.tiktok.com/@user9814061405971/video/7379813269462109473)
 
 ---
 
