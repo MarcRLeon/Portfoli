@@ -8,7 +8,7 @@ Este proyecto consiste en un juego [breve descripción del juego].
 ### Documentación
 
 - [Game Design Document](https://docs.google.com/document/d/1j-MgLMBubWbzjcbLy2urX9RNEipy6LXtMXCrAfXl8zE/edit?usp=sharing)
-- [Manual de Usuario (en inglés)](https://docs.google.com/document/d/1b6_MPr_QwLhVaVVdwLlVg5g1xOvur8Le3NX0oNIu1Pw/edit?usp=sharing)
+- [Manual de Usuario](https://docs.google.com/document/d/1b6_MPr_QwLhVaVVdwLlVg5g1xOvur8Le3NX0oNIu1Pw/edit?usp=sharing)
 
 ### Demostración
 
@@ -16,8 +16,8 @@ Este proyecto consiste en un juego [breve descripción del juego].
 
 ### Ejecutables
 
-- [Descargar para Windows](https://drive.google.com/file/d/1plcrOUQUb-WS2gNK8-Ofwwit7QqhOV8m/view?usp=drive_link)
-- [Descargar para Linux](https://drive.google.com/file/d/1plcrOUQUb-WS2gNK8-Ofwwit7QqhOV8m/view?usp=drive_link)
+- [Descargar para Windows](https://drive.google.com/file/d/1Bz_KmW9ys4zLFY206LvFVvlxzJ5E0zJ4/view?usp=sharing)
+- [Descargar para Linux](https://drive.google.com/file/d/1nRsiRUK9_x_c8tiAs3CfqOFPdiaR7SXR/view?usp=sharing)
 
 ### Código Fuente
 
