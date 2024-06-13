@@ -16,7 +16,7 @@ Este proyecto consiste en un juego [breve descripción del juego].
 
 ### Ejecutables
 
-- [Descargar para Windows](enlace_al_ejecutable_windows)
+- [Descargar para Windows](https://drive.google.com/drive/u/0/home)
 - [Descargar para Linux](enlace_al_ejecutable_linux)
 
 ### Código Fuente
