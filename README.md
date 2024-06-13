@@ -12,7 +12,7 @@ Este proyecto consiste en un juego [breve descripción del juego].
 
 ### Demostración
 
-- [Vídeo de demostración del juego](enlace_al_video)
+- [Vídeo de demostración del juego](https://www.youtube.com/watch?v=YtHEbspFvSw)
 
 ### Ejecutables
 
