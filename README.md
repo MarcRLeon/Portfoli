@@ -4,8 +4,8 @@
 
 ### Documentación
 
-- [Game Design Document](https://docs.google.com/document/d/1j-MgLMBubWbzjcbLy2urX9RNEipy6LXtMXCrAfXl8zE/edit?usp=sharing)
-- [Manual de Usuario](https://docs.google.com/document/d/1b6_MPr_QwLhVaVVdwLlVg5g1xOvur8Le3NX0oNIu1Pw/edit?usp=sharing)
+- [Manual d'Usuari](https://docs.google.com/document/d/1j-MgLMBubWbzjcbLy2urX9RNEipy6LXtMXCrAfXl8zE/edit?usp=sharing)
+
 
 ### Demostración
 
