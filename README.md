@@ -1,56 +1,48 @@
-# Portafolio de Proyectos
+# Protfoli Projectes
 
 ## Projecte 4
 
-### Documentación
+### Documentació
 
-- [Manual de Usuario](https://docs.google.com/document/d/1j-MgLMBubWbzjcbLy2urX9RNEipy6LXtMXCrAfXl8zE/edit?usp=sharing)
+- [Manual d'Usuari](https://docs.google.com/document/d/1j-MgLMBubWbzjcbLy2urX9RNEipy6LXtMXCrAfXl8zE/edit?usp=sharing)
 
 
-### Demostración
+### Demostració
 
-- [Vídeo de demostración del juego](https://www.youtube.com/watch?v=m98aDo19l98)
+- [Vídeo de demostració del joc](https://www.youtube.com/watch?v=m98aDo19l98)
 
-### Ejecutables
+### Executables
 
-- [Descargar para Windows](https://drive.google.com/file/d/1BV5VRdx1g7RGHs0aYsp2VpeX-VhBFsVy/view?usp=sharing)
-- [Descargar para Linux](https://drive.google.com/file/d/1VmgVjpdNxa_yro2Jn4ObUwvetiCO14v5/view?usp=sharing)
+- [Descargar per Windows](https://drive.google.com/file/d/1BV5VRdx1g7RGHs0aYsp2VpeX-VhBFsVy/view?usp=sharing)
+- [Descargar per Linux](https://drive.google.com/file/d/1VmgVjpdNxa_yro2Jn4ObUwvetiCO14v5/view?usp=sharing)
                          
 
-### Código Fuente
+### Codi Font
 
-- [Repositorio del código](https://gitlab.com/rodo.leon.marc/recuperacio-projecte4.git)
+- [Repositori del codi](https://gitlab.com/rodo.leon.marc/recuperacio-projecte4.git)
 
 ### TikTok
 
-- [TikTok de FOL relacionado](https://www.tiktok.com/@user9814061405971/video/7449507775551474976)
+- [TikTok de FOL relacionat](https://www.tiktok.com/@user9814061405971/video/7449507775551474976)
 
 ---
 
-## Otros Proyectos
+## Altres rojectes
 
-### [Nombre del Proyecto]
+### Projecte 3
 
-### Descripción
-[Descripción breve del proyecto]
+### Documentació
 
-### Documentación
+- [Tech Report](https://docs.google.com/document/d/1QZ8t-JUs2w1KfCpVMuIdq4GD5ia5o_5_mTlxQPp9KHw/edit?tab=t.0#heading=h.nohbpru4oi53)
 
-- [Documentación relevante]
-
-### Demostración
+### Demostració
 
 - [Vídeo de demostración si aplica]
 
-### Ejecutables
+### Executables
 
 - [Enlaces a ejecutables si aplica]
 
-### Código Fuente
+### Codi Font
 
-- [[Enlace al repositorio]]
-
-### TikTok
-
-- [Enlace a TikTok si aplica]
-
+- [Repositori del codi](https://gitlab.com/rodo.leon.marc/recuperacio-projecte-3.git)
