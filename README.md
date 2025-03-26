@@ -37,7 +37,7 @@
 
 ### Demostració
 
-- [Vídeo de demostración si aplica](https://youtu.be/ZU2hV7wrBS8)
+- [Vídeo de demostració si aplica](https://youtu.be/ZU2hV7wrBS8)
 
 ### Executables
 
