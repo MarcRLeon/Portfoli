@@ -37,11 +37,11 @@
 
 ### Demostració
 
-- [Vídeo de demostración si aplica]
+- [Vídeo de demostración si aplica](https://youtu.be/ZU2hV7wrBS8)
 
 ### Executables
 
-- [Enlaces a ejecutables si aplica]
+- [Enllaços a executables si aplica](https://drive.google.com/drive/u/0/folders/1yFoJdL45N1LgBdaIV_uSc_IErVa5ShMK)
 
 ### Codi Font
 
